@@ -1,146 +1,7 @@
 <div align="center">
   <h1>Mezon</h1>
-  
-  <p align="center">
-    <strong>The Live, Work, and Play Platform – the best Discord alternative.</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/mezonai/mezon/releases"><img src="https://img.shields.io/github/v/release/mezonai/mezon?style=flat-square" alt="Latest Release"></a>
-    <a href="https://github.com/mezonai/mezon/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mezonai/mezon?style=flat-square" alt="License"></a>
-    <a href="https://github.com/mezonai/mezon/stargazers"><img src="https://img.shields.io/github/stars/mezonai/mezon?style=flat-square" alt="GitHub Stars"></a>
-    <a href="https://github.com/mezonai/mezon/issues"><img src="https://img.shields.io/github/issues/mezonai/mezon?style=flat-square" alt="Issues"></a>
-    <a href="https://github.com/mezonai/mezon/network/members"><img src="https://img.shields.io/github/forks/mezonai/mezon?style=flat-square" alt="Forks"></a>
-  </p>
-
-  <p align="center">
-    <a href="https://mezon.ai"><img src="https://img.shields.io/badge/Try%20Live-mezon.ai-blue?style=flat-square" alt="Try Live"></a>
-    <a href="https://mezon.ai/invite/1840696977034055680"><img src="https://img.shields.io/badge/Join-Community-purple?style=flat-square" alt="Join Community"></a>
-    <a href="#contributing"><img src="https://img.shields.io/badge/Contributions-Welcome-green?style=flat-square" alt="Contributions Welcome"></a>
-  </p>
-</div>
-
+	
 ---
-
-## Mezon Bug Report Community
-
-[Mezon Bug Report Community](https://mezon.ai/invite/1840696977034055680)
-
-## The Live, Work, and Play Platform the best Discord Alternative
-
-Mezon is a Live, Work, and Play platform. It’s perfect for gaming and chilling with friends, or even building a global community. Customize your own space to talk, play, and hang out. Mezon also delivers enterprise-grade performance with sub-millisecond response times and support for millions of concurrent connections.
-
-<div align="center">
-  <img src="docs/mezon_header_bot_battle.png" alt="Mezon Platform Overview" width="100%">
-</div>
-
-### ✨ Key Features
-
--   **🔒 Security First** - End-to-end encryption, XSS protection, zero-knowledge architecture
--   **⚡ High Performance** - Sub-millisecond response times, millions of concurrent connections
--   **🌐 Cross-Platform** - Web, Desktop (Windows/macOS/Linux), Mobile (iOS/Android)
--   **🤖 AI-Powered** - Built-in content moderation, real-time translation, meeting summaries
--   **🔧 Extensible** - Custom bots, 100+ integrations, API-first design
--   **💰 Creator Economy** - Built-in monetization, premium memberships, token rewards
-
-### 🎯 Use Cases
-
-| Use Case               | Features                                             |
-| ---------------------- | ---------------------------------------------------- |
-| **Gaming Communities** | Voice chat, tournaments, streaming integration       |
-| **Professional Teams** | Channels, file sharing, integrations, meeting tools  |
-| **Content Creators**   | Monetization tools, community building, analytics    |
-| **Personal Groups**    | Private spaces, family connections, secure messaging |
-
----
-
-## 🚀 Quick Start
-
-### For Users
-
-1. **Web App**: Visit [mezon.ai](https://mezon.ai) - no installation required
-2. **Desktop**: Download from [releases](https://github.com/mezonai/mezon/releases) for Windows, macOS, or Linux
-3. **Mobile**: Get the app from [App Store](https://mezon.ai) or [Google Play](https://mezon.ai)
-
-### For Developers
-
-```bash
-# Clone the repository
-git clone https://github.com/mezonai/mezon.git
-cd mezon
-
-# Install dependencies
-yarn install
-
-# Start development server
-yarn dev:chat
-```
-
-The application will be available at http://localhost:4200/
-
-> 📖 **Need help?** Check out our [Developer Guide](docs/developer/SETUP.md) for detailed setup instructions.
-
----
-
-## 🌟 Core Features
-
-### 💬 Communication
-
--   **Rich Text Messaging** - Markdown support, threads, reactions, file sharing up to 500MB
--   **Voice & Video** - Crystal-clear HD calls supporting up to 1000 users
--   **Screen Sharing** - Built-in recording and streaming capabilities
-
-### 🛡️ Security & Privacy
-
--   **End-to-End Encryption** - All messages, voice, and video communications
--   **Zero-Knowledge Architecture** - Client-side encryption, secure binary sockets
--   **XSS Protection** - Safe message rendering and content validation
-
-### 🎯 Organization & Management
-
--   **Advanced Permissions** - Custom roles with granular permission controls
--   **Smart Notifications** - AI-powered filtering and priority management
--   **Event Scheduling** - Built-in calendar with RSVP system
-
-### 🤖 AI-Powered Features
-
--   **Content Moderation** - Automated safety and community management
--   **Real-time Translation** - Support for 100+ languages
--   **Meeting Intelligence** - Auto-generated summaries and transcription
-
-### 🔧 Integration & Extensibility
-
--   **API-First Design** - Comprehensive REST and WebSocket APIs
--   **Bot Framework** - Extensible platform with SDK support
--   **Third-party Integrations** - 100+ tools and custom webhooks
-
----
-
-## 📦 Installation
-
-### System Requirements
-
-| Platform        | Requirements                                                   |
-| --------------- | -------------------------------------------------------------- |
-| **Web**         | Modern browser (Chrome 90+, Firefox 88+, Safari 14+, Edge 90+) |
-| **Desktop**     | Windows 10+, macOS 10.15+, Ubuntu 18.04+                       |
-| **Mobile**      | iOS 13.0+, Android 8.0+ (API level 26+)                        |
-| **Development** | Node.js 18+, Yarn 1.22.4+, 4GB RAM minimum                     |
-
-### Download Options
-
-| Platform    | Download Link                                                                 | Status    |
-| ----------- | ----------------------------------------------------------------------------- | --------- |
-| **Windows** | [Download](https://apps.microsoft.com/detail/9pf25lf1fj17)                    | ✅ Stable |
-| **macOS**   | [Download](https://cdn.mezon.ai/release/mezon-1.4.60-mac-arm64.dmg)           | ✅ Stable |
-| **Linux**   | [Download](https://cdn.mezon.ai/release/mezon-1.4.60-linux-amd64.deb)         | ✅ Stable |
-| **iOS**     | [App Store](https://apps.apple.com/vn/app/mezon/id6502750046)                 | ✅ Stable |
-| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.mezon.mobile) | ✅ Stable |
-| **Web**     | [mezon.ai](https://mezon.ai)                                                  | ✅ Stable |
-
----
-
-## 👨‍💻 Development
 
 ### 🛠️ Development Setup
 
@@ -242,38 +103,7 @@ mezon/
 
 > 🔗 **Resources**: [Bot Example](https://github.com/mezonai/mezon-bot-example) | [SDK Documentation](https://mezon.ai/docs/mezon-sdk-docs/)
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-### Ways to Contribute
-
--   🐛 **Report Bugs**: Use our [issue tracker](https://github.com/mezonai/mezon/issues)
--   💡 **Feature Requests**: Suggest new features and improvements
--   💻 **Code Contributions**: Submit pull requests for bug fixes and features
--   📚 **Documentation**: Help improve our docs and guides
--   🌍 **Translation**: Help translate Mezon to more languages
-
-### Development Process
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes and add tests
-4. Ensure all tests pass (`yarn test`)
-5. Submit a pull request
-
-> 📋 **Guidelines**: Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information about our development process, coding standards, and pull request guidelines.
-
----
-
 ## 📚 Resources & Documentation
-
-### 🚀 For Users
-
--   [**Web App**](https://mezon.ai/chat/direct/friends) - Try Mezon instantly
--   [**Community Directory**](https://mezon.ai/clans/) - Discover communities
--   [**Bot/App store**](https://top.mezon.ai/) - Mezon Top Board
--   [**User Guide**](docs/user-guides/GETTING_STARTED.md) - Getting started guide
 
 ### 🛠️ For Developers
 
@@ -291,13 +121,6 @@ We welcome contributions from the community! Here's how you can help:
 -   [**NestJS SDK**](https://github.com/n0xgg04/nezon) - Official NestJs SDK
 -   [**Mezon WebJs SDK**](https://github.com/mezonai/mezon-web-js) - SDK for channel apps integration
 -   [**MCP Integration**](https://github.com/mezonai/mezon-mcp) - AI-ready integration
-
-### 🌐 Community & Support
-
--   [**Community Hub**](https://mezon.ai/invite/1840696977034055680) - Join our official community
--   [**GitHub Discussions**](https://github.com/mezonai/mezon/discussions) - Ask questions and share ideas
--   [**Issue Tracker**](https://github.com/mezonai/mezon/issues) - Report bugs and request features
--   [**Developer Portal**](https://mezon.ai/developers/applications) - Build applications on Mezon
 
 ---
 
@@ -327,15 +150,6 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📄 License & Legal
-
--   **License**: [MIT License](LICENSE) - Free for personal and commercial use
--   **Privacy Policy**: [mezon.ai/privacy](https://mezon.ai/privacy)
--   **Terms of Service**: [mezon.ai/terms](https://mezon.ai/terms)
--   **Security Policy**: [SECURITY.md](SECURITY.md)
-
----
-
 ## 🙏 Acknowledgments
 
 Mezon is built on top of amazing open-source technologies:
@@ -351,18 +165,5 @@ Mezon is built on top of amazing open-source technologies:
 -   [React](https://reactjs.org/) - UI framework
 -   [Nx](https://nx.dev/) - Monorepo tooling
 -   And many other fantastic open-source projects
-
-<div align="center">
-  <p>
-    <strong>Made with ❤️ by the Mezon Team</strong><br>
-    <em>Connecting communities worldwide</em>
-  </p>
-  
-  <p>
-    <a href="https://github.com/mezonai/mezon">⭐ Star us on GitHub</a> •
-    <a href="https://mezon.ai/invite/1840696977034055680">💬 Join our community</a> •
-    <a href="https://github.com/mezonai/mezon/issues/new/choose">🐛 Report an issue</a>
-  </p>
-</div>
 
 [![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/mezonai-mezon-badge.png)](https://mseep.ai/app/mezonai-mezon)
